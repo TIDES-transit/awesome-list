@@ -1,5 +1,10 @@
 # TIDES Awesome List
 
+## Data Specification and Documentation
+
+- [TIDES Website](https://tides-transit.org/): Official website for TIDES project.
+- [TIDES Specification](https://github.com/TIDES-transit/TIDES): GitHub repository describing TIDES data.
+
 ## Data Conversion
 
 - [evansiroky/gtfs-rt-to-tides](https://github.com/evansiroky/gtfs-rt-to-tides): A set of scripts to turn collected GTFS-RT into TIDES data
