@@ -24,6 +24,11 @@
 - *COMING SOON* Cal-ITP sample data: Description of how to access Cal-ITP's public sample TIDES data
 - [evansiroky/magellan-elcano-tides](https://github.com/evansiroky/magellan-elcano-tides): An example implementation of the TIDES Standard that describes the Magellan–Elcano expedition
 
+## Slide Decks and Presentations
+
+- ["TIDES: Transit Data Pipelines, Not Silos" (TransportationCamp DC, January 2026)](https://drive.google.com/file/d/1FeTWyRKnuIdj-SwxEiO8-xtUZQ_E0XzD/view): Introduction to TIDES.
+- ["Introducing the Common Transit Operations Data Framework" (Transportation Research Board Annual Meeting, January 2026)](https://drive.google.com/file/d/1bZemmulpLhGzq1zKS-kXeg8E_Xvh4Hyl/view?usp=drive_link): Overview of proposed data architecture/data infrastructure approach for working with TIDES data.
+
 ## Official Specification and Documentation
 
 - [TIDES Website](https://tides-transit.org/): Official website for TIDES project.
