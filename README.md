@@ -1,17 +1,18 @@
 # TIDES Resources
 
-## Implementation & Technical Architecture Guidance 
+## Implementation Approaches & Technical Architecture  
 
 - [Getting Started](https://tides-transit.org/main/getting-started): High-level guidance for getting started with TIDES
 - *COMING SOON* Implementation Guide: Detailed resource walking through implementation considerations based on data source and technical requirements
 - [TIDES Architecture Framework](https://docs.google.com/document/d/12NAwIuVvaaQQSQVtAlMhhhLJ1FnziX3G4KEI68B-et0): A framework for approaching the data infrastructure setup to support a TIDES implementation
+- *COMING SOON* Sample procurement language: Resources to add TIDES requirements to procurements
 
 ## Use Case Profiles
 
 - *COMING SOON* National Transit Database (NTD) Reporting Use Case Profile: How TIDES can support NTD reporting requirements
 - *COMING SOON* On-time Performance Use Case Profile: How TIDES can support on-time performance (OTP) reporting and analysis
 
-## Implementation and Code Examples
+## Example Implementations and Code
 
 - [tides-implementations](https://github.com/TIDES-transit/tides-implementations): A repository of TIDES implementation examples
     - [WMATA SMART Data Hub writeup](https://tides-transit.org/main/implementations/wmata-sdh/) and [wmata/sdh-open-source](https://github.com/TIDES-transit/tides-implementations/tree/main/agencies/wmata/sdh-open-source): A narrative description and the open-sourced code from WMATA's SMART Data Hub TIDES implementation
@@ -21,7 +22,7 @@
 
 ## Sample Data
 
-- *COMING SOON* Cal-ITP sample data: Description of how to access Cal-ITP's public sample TIDES data
+- [California TIDES data](https://tides.dds.dot.ca.gov/): Public TIDES-formatted data from the California Department of Transportation (Caltrans)’s Division of Data and Digital Services (DDS)
 - [evansiroky/magellan-elcano-tides](https://github.com/evansiroky/magellan-elcano-tides): An example implementation of the TIDES Standard that describes the Magellan–Elcano expedition
 - [TIDES repo sample data](https://tides-transit.org/main/samples/): A framework for sharing TIDES data samples within the TIDES GitHub repo
 
