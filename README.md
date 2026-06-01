@@ -17,7 +17,7 @@
 - [tides-implementations](https://github.com/TIDES-transit/tides-implementations): A repository of TIDES implementation examples
     - [WMATA SMART Data Hub writeup](https://tides-transit.org/main/implementations/wmata-sdh/) and [wmata/sdh-open-source](https://github.com/TIDES-transit/tides-implementations/tree/main/agencies/wmata/sdh-open-source): A narrative description and the open-sourced code from WMATA's SMART Data Hub TIDES implementation
     - *COMING SOON* Cal-ITP code: The code from Cal-ITP's GTFS-RT-to-TIDES conversion
-    - *COMING SOON* Mountain Line (Missoula) code: The code from Missoula's TIDES implementation 
+    - [Mountain Line (MUTD in Missoula, MT) TIDES tools](https://tides-transit.org/main/implementations/mountain-line-mutd/): Implementation overview, code, and tooling for working with TIDES data created by Mountain Line (MUTD), including a Polars-based TIDES schema validation library and an orchestration library for TIDES data transformations 
 - [evansiroky/gtfs-rt-to-tides](https://github.com/evansiroky/gtfs-rt-to-tides): A set of scripts to turn collected GTFS-RT into TIDES data
 
 ## Sample Data
