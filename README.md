@@ -1,7 +1,7 @@
 # TIDES Resources
 
 > [!NOTE]
-> If you would like to sign up to participate in TIDES community calls or subscribe for community updates, you can sign up via the [TIDES Community Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSeb-YNZhnkn4PQ2yV25KvHJzyo40JtXPaTTWSLpDSRrwDpfEA/viewform).
+> If you would like to participate in TIDES community calls or subscribe for community updates, you can sign up via the [TIDES Community Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSeb-YNZhnkn4PQ2yV25KvHJzyo40JtXPaTTWSLpDSRrwDpfEA/viewform).
 
 ## Implementation Approaches & Technical Architecture  
 
