@@ -30,6 +30,14 @@
 - ["TIDES: Transit Data Pipelines, Not Silos" (TransportationCamp DC, January 2026)](https://drive.google.com/file/d/1FeTWyRKnuIdj-SwxEiO8-xtUZQ_E0XzD/view): Introduction to TIDES.
 - ["Introducing the Common Transit Operations Data Framework" (Transportation Research Board Annual Meeting, January 2026)](https://drive.google.com/file/d/1bZemmulpLhGzq1zKS-kXeg8E_Xvh4Hyl/view?usp=drive_link): Overview of proposed data architecture/data infrastructure approach for working with TIDES data.
 
+[TIDES Briefing: Access Improved Ridership and Performance Data](https://drive.google.com/file/d/1na9a-4xsin46P_OsFU0pLm9rQ0AlcVuG/view?usp=sharing), a high-level primer on TIDES hosted by MobilityData on June 2, 2026. Featured special guests from California Integrated Travel Project (Cal-ITP), Missoula Mountain Line, and Washington Metropolitan Area Transit Authority (WMATA). Also available: [slide deck PDF](https://drive.google.com/file/d/15CZIai-nlLrw3S7gPZw1Iq0_4LT6TOWV/view?usp=sharing).
+
+<a href="https://drive.google.com/file/d/1na9a-4xsin46P_OsFU0pLm9rQ0AlcVuG/view?usp=sharing">
+  <img src="https://raw.githubusercontent.com/TIDES-transit/awesome-list/main/assets/tides_briefing_20260602_title_slide.png"
+       alt="Title slide for the TIDES Briefing: Access Improved Ridership and Performance Data"
+       style="width: 100%; max-width: 600px; border: 1px solid #ccc;">
+</a>
+
 ## Official Specification and Documentation
 
 - [TIDES Website](https://tides-transit.org/): Official website for TIDES project.
